@@ -1,2 +1,2 @@
 # Youtube-Video-Downloader
-YouTube Video Downloader with python
+Command Line YouTube Video Downloader with python
