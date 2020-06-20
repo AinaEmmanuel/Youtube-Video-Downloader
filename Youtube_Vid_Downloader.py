@@ -89,7 +89,7 @@ def load_animation_download():
     the_process.start()
     while the_process.is_alive():
         animated_loading()
-    print('\n\aDone!')
+    print('\n\aDownload Complete!')
 
 #Initializing the program
 def initialize():
