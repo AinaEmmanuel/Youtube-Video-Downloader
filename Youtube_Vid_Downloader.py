@@ -30,7 +30,7 @@ def enter_link():
 
 def load_link():
     """
-    Reads and loads int the URL
+    Reads and loads in the URL
     
     """
     global vid
