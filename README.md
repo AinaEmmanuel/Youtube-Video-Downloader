@@ -14,6 +14,10 @@ An executable file has been added, so python would not be needed to use the Appl
 ```
 pip install pytube3
 ```
+Note - pytube library is currently having some issues, this alternative version can be installed
+```
+pip install git+https://gitlab.com/obuilds/public/pytube@ob-v1 --upgrade
+```
 
 ##### Final Note
 Please do well to leave a review/suggestion/critique.
