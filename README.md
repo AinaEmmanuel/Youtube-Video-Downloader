@@ -10,7 +10,7 @@ An executable file has been added, so python would not be needed to use the Appl
 [![Pytube](https://img.shields.io/pypi/v/pytube?style=plastic)](https://pypi.org/project/pytube3/)
 * pytube
 ```
-pip install pytube
+pip install pytube3
 ```
 
 ##### Final Note
