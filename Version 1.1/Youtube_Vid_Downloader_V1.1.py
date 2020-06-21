@@ -128,14 +128,14 @@ def download_path():
 	Prompts user to specify the download path or downloads to the current directory by default
 	
 	"""
-    global path
-    path = input("Enter download path: (press 'enter' to Download file to your current working directory) >> ")
-    if path == '':
-        print(f"...Downloading to current directory {os.getcwd()}...")
-    else:
-        print(f"...Downloading {path}...")
-    download_video()
-    load_animation_download()
+	global path
+	path = input("Enter download path: (press 'enter' to Download file to your current working directory) >> ")
+	if path == '':
+		print(f"...Downloading to current directory {os.getcwd()}...")
+	else:
+		print(f"...Downloading {path}...")
+	download_video()
+	load_animation_download()
 
 def download_video():
     """
