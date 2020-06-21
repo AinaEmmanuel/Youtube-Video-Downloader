@@ -1,6 +1,8 @@
 # Youtube-Video-Downloader
 Command Line YouTube Video Downloader with python
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 #### New Release
 An executable file has been added, so python would not be needed to use the Application. Do well to check the release/tags panel and download the folder
 
