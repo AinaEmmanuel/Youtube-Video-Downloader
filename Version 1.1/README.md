@@ -7,3 +7,5 @@ User can now;
   * Download path take the form;
   
   `C:\example\jones\Downloads\`
+
+[![GitHub release](https://img.shields.io/github/v/release/AinaEmmanuel/Youtube-Video-Downloader?style=plastic)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.1)
