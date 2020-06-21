@@ -93,7 +93,7 @@ def vid_details():
 def resolution_and_size():
     """
     This function gets a list of Resolutions available for Downloads.
-    It also takes a user input for their preffered Download Resolution
+    It also takes a user input for their preferred Download Resolution
     
     Update: User can now get the size of the different resolutions 
     """
@@ -126,6 +126,10 @@ def resolution_and_size():
 def download_path():
 	""" 
 	Prompts user to specify the download path or downloads to the current directory by default
+
+	Path must be in form 'C:\\Users\\Emmanuel\\Desktop\\v1.1'
+
+	Specifying your download path is the most preferrable option
 	
 	"""
 	global path
