@@ -5,7 +5,8 @@ Command Line YouTube Video Downloader with python 😎
 An executable file has been added, so python would not be needed to use the Application. Do well to check the release/tags panel and download the folder
 
 #### Dependency
-..* pytube
-'''
+
+* pytube
+```
 pip install pytube
-'''
+```
