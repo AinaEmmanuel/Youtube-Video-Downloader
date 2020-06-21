@@ -1,5 +1,5 @@
 # Youtube-Video-Downloader
-Command Line YouTube Video Downloader with python
+Command Line YouTube Video Downloader
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -8,7 +8,7 @@ An executable file has been added, so python would not be needed to use the Appl
 
 #### All release
 [![GitHub release](https://img.shields.io/badge/release-v1.0-green)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.0)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/AinaEmmanuel/Youtube-Video-Downloader?style=plastic)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.1)
+[![GitHub release](https://img.shields.io/badge/release-v1.1-red)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.1)
 
 #### Dependency
 [![Pytube](https://img.shields.io/pypi/v/pytube?style=plastic)](https://pypi.org/project/pytube3/)
