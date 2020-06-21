@@ -124,6 +124,10 @@ def resolution_and_size():
     download_path()
 
 def download_path():
+	""" 
+	Prompts user to specify the download path or downloads to the current directory by default
+	
+	"""
     global path
     path = input("Enter download path: (press 'enter' to Download file to your current working directory) >> ")
     if path == '':
