@@ -46,6 +46,18 @@ def load_animation_url():
     while the_process.is_alive():
         animated_loading()
 
+def invalid_try_or_quit():
+    """
+    Prompts User to Try again or Quit once the URL is invalid
+    
+    """
+    print('\aLink invalid...')
+    try_ = input("- Do you want to try again? (y /n): ")
+    if try_ == 'y':
+        initialize()
+    else:
+        quit()
+
 def valid_link():
     """
     Checks if the URL is valid and proceeds to the next stage
@@ -54,16 +66,6 @@ def valid_link():
     print('\n- URL Okay!...')
     time.sleep(2)
     vid_details()
-
-#Disapproves the link
-def invalid_link():
-    """
-    Checks if the URL is Invalid and exits the app
-    
-    """
-    
-    print('Link invalid...Enter a valid link: ')
-    exit()
 
 def vid_details():
     """
@@ -137,8 +139,11 @@ def initialize():
     try:
         enter_link()
     except RegexMatchError as e:
-        invalid_link()
+        invalid_try_or_quit()
     else:
         valid_link()
 
 initialize()
+
+
+# Added invalid link Loop
