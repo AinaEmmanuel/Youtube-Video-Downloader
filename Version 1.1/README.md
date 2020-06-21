@@ -1,6 +1,6 @@
 ## Version 1.1
 #### What's New? 
-User can now;
+Users can now;
 * See the size of their download
 * Download files to a specified path; The file downloads to the current working directory by default
   * It is more preferrable to specify your download path
