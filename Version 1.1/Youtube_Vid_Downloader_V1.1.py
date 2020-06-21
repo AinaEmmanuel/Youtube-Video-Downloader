@@ -137,7 +137,7 @@ def download_path():
 	if path == '':
 		print(f"...Downloading to current directory {os.getcwd()}...")
 	else:
-		print(f"...Downloading {path}...")
+		print(f"...Downloading to {path}...")
 	download_video()
 	load_animation_download()
 
