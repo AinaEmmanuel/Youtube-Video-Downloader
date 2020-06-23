@@ -9,6 +9,7 @@ An executable file has been added, so python would not be needed to use the Appl
 #### All release
 [![GitHub release](https://img.shields.io/badge/release-v1.0-green)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.0)
 [![GitHub release](https://img.shields.io/badge/release-v1.1-red)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.1)
+[![GitHub release](https://img.shields.io/badge/release-v1.2-blue)](https://github.com/AinaEmmanuel/Youtube-Video-Downloader/releases/tag/v1.2)
 
 #### Dependency
 [![Pytube](https://img.shields.io/pypi/v/pytube?style=plastic)](https://pypi.org/project/pytube3/)
@@ -23,5 +24,3 @@ pip install git+https://gitlab.com/obuilds/public/pytube@ob-v1 --upgrade
 
 ##### Final Note
 Please do well to leave a review/suggestion/critique.
-
-##### Final Version Coming Soon!!
